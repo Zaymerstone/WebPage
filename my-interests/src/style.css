@@ -1,0 +1,77 @@
+body{
+  background-color:LightSteelBlue;
+}
+.topdiv{
+  text-align:center;
+}
+h1 {
+  text-align:center;
+  color:red;
+}
+.PCG {
+  color:blue;
+}
+.SG{
+  color:green;
+}
+.RG{
+  color:purple;
+}
+.HOWF{
+  color:orange;
+} 
+#img{
+  float:right;
+  margin-right:420px;
+  margin-bottom:50px;
+}
+#name{
+  float:right;
+  margin-right:420px;
+  margin-bottom:50px;
+}
+#index{
+  margin-left:270px;
+}
+.topdiv{
+   border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  border-width: 150x;
+  padding-bottom:1px;
+  padding:10px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+h3{
+  border:solid;
+  border-width:3px;
+  border-color:#000000;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 50px;
+}
+.tablediv{
+  background-color: Orange;
+  width: 100%;
+  margin: 0px 10px 20px -9px;
+  padding: 2px 18px 5px 0px;
+}
+#Button{
+  border: outset;
+}
+
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+
+
+
+
+  
